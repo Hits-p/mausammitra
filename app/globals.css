@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{--ink:#102a32;--teal:#087d68;--mint:#e9f7f2;--line:#dfe9e6}
+*{box-sizing:border-box} body{margin:0;background:#f6faf9;color:var(--ink);font-family:Arial,sans-serif} button,input,select{font:inherit}.card{background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 4px 18px rgba(19,54,55,.06)}
